@@ -90,7 +90,9 @@
     margin-bottom: 10px;
   }
   .social-icons i {
+    text-decoration: none;
     font-size: 1.5rem;
+    color: rgb(198, 173, 206);
   }
   .main-container {
     overflow: hidden;
