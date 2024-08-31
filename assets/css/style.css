@@ -90,7 +90,7 @@
     margin-bottom: 10px;
   }
   .social-icons i {
-    text-decoration: none;
+    text-decoration: n;
     font-size: 1.5rem;
     color: rgb(198, 173, 206);
   }
@@ -137,7 +137,7 @@
   }
   
   .card img {
-    width: 100%;
+    width: 50%;
     height: auto;
     object-fit: contain;
   }
@@ -283,7 +283,7 @@
     }
     .card img {
       width: 100%;
-      height: auto;
+      height: 300px;
       object-fit: contain;
     }
   }
